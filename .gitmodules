@@ -1,6 +1,6 @@
-[submodule "frontend-todocheck-mirror"]
-	path = frontend-todocheck-mirror
-	url = https://github.com/carloscacho/frontend-todocheck-mirror.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/carloscacho/frontend-todocheck-mirror.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/carloscacho/backend-todocheck-mirror.git
