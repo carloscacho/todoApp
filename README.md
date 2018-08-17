@@ -2,6 +2,8 @@
 Um app em React And Redux. Acesse o [TodoApp](https://todocheck.herokuapp.com/)
 
 Esse app e um criador de atividades, não esta separado por usuarios, ou seja, se você colocar uma atividade todos os usuarios irão ver
+
+
 ![todoapp rodando](https://github.com/carloscacho/todoApp/blob/master/media/ezgif.com-video-to-gif.gif?raw=true)
 
 
